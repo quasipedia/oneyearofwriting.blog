@@ -8,6 +8,8 @@ tags: ["writing", "learning"]
 
 This is palaceholder text from wikipedia.
 
+Now I am adding a line to trigger a rebuild.
+
 Writing is the act of creating a persistent, usually visual representation of language on a surface. As a structured system of communication, writing is also known as written language. Historically, written languages have emerged as a way to record corresponding spoken languages. While the use of language is universal across human societies, most spoken languages are not written. A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system. In some rare cases, writing may be tactile rather than visual.
 
 The cognitive and social activity of writing involves neuropsychological and physical processes whose physical output is also called writing (or a text): a series of physically inscribed, mechanically transferred, or digitally represented symbols. Reading is the process of looking at writing and accurately comprehending the symbols of a written text.
