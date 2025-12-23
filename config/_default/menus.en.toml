@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Thoughts"
+pageRef = "thoughts"
+identifier = "Bw5BgzCTnP"
+weight = 1
+
+[[main]]
+name = "Essays"
+pageRef = "essays"
+identifier = "xyFbVR4TxG"
+weight = 2
+
+[[footer]]
+none = "none"

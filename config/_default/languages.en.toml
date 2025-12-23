@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "One Year of Writing"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "OYOW - Logo Only - Green - Cleaned.webp"
+description = "An Experiment in Writing Practice"
+
+[[params.author.links]]
+email = "mailto:mac@oneyearofwriting.blog"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/macmaistrelli/"
+
+["params.author"]
+name = "mac"
+image = "mac.ryan.avatar.large.png"
+headline = "Scientist. Educator. Technologist."
+bio = "I'm a natural scientist by training, educator by choice, and technologist by chance. Currently on sabbatical, in search of a job that will allow me to make the world a better place."
