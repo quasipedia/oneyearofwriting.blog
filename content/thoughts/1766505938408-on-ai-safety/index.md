@@ -1,7 +1,7 @@
 ---
 title: "On AI safety"
 date: 2025-12-23
-draft: false
+draft: true
 description: "Why I think there are two types of safety concerns for AI"
 tags: ["ai", "ai-safety"]
 ---

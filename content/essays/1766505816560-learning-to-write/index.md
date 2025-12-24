@@ -1,7 +1,7 @@
 ---
 title: "Learning to Write"
 date: 2025-12-23
-draft: false
+draft: true
 description: "On why I dove into this experiment and set up this blog"
 tags: ["writing", "learning"]
 ---
