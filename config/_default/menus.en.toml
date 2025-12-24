@@ -13,5 +13,11 @@ pageRef = "essays"
 identifier = "xyFbVR4TxG"
 weight = 2
 
+[[main]]
+pre = "tag"
+pageRef = "tags"
+identifier = "isxHfplmSJ"
+weight = 9_999
+
 [[footer]]
 none = "none"
