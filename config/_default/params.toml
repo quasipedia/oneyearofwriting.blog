@@ -1,4 +1,4 @@
-colorScheme = "autumn"
+colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
@@ -22,11 +22,12 @@ verification = { }
 rssnext = { }
 advertisement = { }
 smartTOC = true
-defaultBackgroundImage = "OYOW\\ -\\ Logo\\ Only\\ -\\ Green\\ -\\ Cleaned.webp"
-highlightCurrentMenuArea = false
+defaultBackgroundImage = "default-image.jpg"
+highlightCurrentMenuArea = true
+defaultFeaturedImage = "default-image.jpg"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -36,16 +37,16 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
-showRecentItems = 5
+showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "OYOW\\ -\\ Logo\\ Only\\ -\\ Green\\ -\\ Cleaned.webp"
+homepageImage = "default-image.jpg"
 
 [article]
 showDate = true
@@ -71,8 +72,9 @@ showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = true
 showWordCount = true
-showZenMode = true
+showZenMode = false
 heroStyle = "background"
+showRelatedContent = ""
 
 [list]
 showHero = false
@@ -88,7 +90,7 @@ orderByWeight = false
 groupByYear = true
 cardView = false
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = ""
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

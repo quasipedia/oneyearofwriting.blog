@@ -9,8 +9,9 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "OYOW - Logo Only - Green - Cleaned.webp"
+logo = "logo-white.svg"
 description = "An Experiment in Writing Practice"
+secondaryLogo = "logo-black.svg"
 
 [[params.author.links]]
 email = "mailto:mac@oneyearofwriting.blog"
@@ -20,6 +21,6 @@ linkedin = "https://www.linkedin.com/in/macmaistrelli/"
 
 ["params.author"]
 name = "mac"
-image = "mac.ryan.avatar.large.png"
+image = "rounded-portrait.png"
 headline = "Scientist. Educator. Technologist."
 bio = "I'm a natural scientist by training, educator by choice, and technologist by chance. Currently on sabbatical, in search of a job that will allow me to make the world a better place."
