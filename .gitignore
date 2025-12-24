@@ -11,3 +11,6 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# MarkDown editor
+/content/marktext-x86_64.AppImage
