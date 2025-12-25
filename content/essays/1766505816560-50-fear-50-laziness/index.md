@@ -7,6 +7,8 @@ draft: true
 description: "On why I dove into this experiment and set up this blog"
 summary: "On why I dove into this experiment and set up this blog"
 tags: ["writing", "learning"]
+series: ["One Year of Writing"]
+series_order: 1
 ---
 
 {{<lead>}}
