@@ -101,8 +101,9 @@ showHero = false
 showBreadcrumbs = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 cardView = false
+heroStyle = "background"
 
 [term]
 showHero = false

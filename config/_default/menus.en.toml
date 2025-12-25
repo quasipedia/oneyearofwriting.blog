@@ -2,21 +2,28 @@
 none = "none"
 
 [[main]]
-name = "Thoughts"
-pageRef = "thoughts"
-identifier = "Bw5BgzCTnP"
-weight = 1
+name = "Leadership"
+pageRef = "/leadership"
+identifier = "7A3OrluSpd"
+weight = 100
 
 [[main]]
-name = "Essays"
-pageRef = "essays"
-identifier = "xyFbVR4TxG"
-weight = 2
+name = "Technology"
+pageRef = "/technology"
+identifier = "pXTeUzwmPO"
+weight = 200
+
+[[main]]
+name = "Misc"
+pageRef = "/misc"
+identifier = "m1yvfYvBoj"
+weight = 300
 
 [[main]]
 pre = "tag"
-pageRef = "tags"
-identifier = "isxHfplmSJ"
+name = "Tags"
+pageRef = "/tags"
+identifier = "SRThUxDePf"
 weight = 9_999
 
 [[footer]]
