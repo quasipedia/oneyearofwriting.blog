@@ -34,3 +34,5 @@ Now, at 50-something, I still don’t plan on devoting myself to becoming a publ
 So here’s my experiment: "One Year of Writing". Starting in 2026, I’m committing to post once a week on this blog. Not for fame or glory, but for personal growth and a bit of scientific curiosity.
 
 More on this project in future posts. But this first one wouldn’t feel complete without giving a shout-out to [Alex](https://www.alexewerlof.com/), a former colleague, current friend and writer, who’s spent the past four years relentlessly encouraging me to pick up the metaphorical pen.
+
+Without him, this project wouldn't exist.
