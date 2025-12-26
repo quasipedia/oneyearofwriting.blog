@@ -1,6 +1,6 @@
 # One Year of Writing
 
-Static file served at https://oneyearofwriting.blog
+Static site served at https://oneyearofwriting.blog
 
 ## Software stack
 
