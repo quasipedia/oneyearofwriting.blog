@@ -1,7 +1,7 @@
 ---
 title: "50% fear, 50% laziness"
 pubdate: 2026-01-01
-draft: true
+draft: false
 summary: "On why I chose to dive into this writing experiment."
 tags: ["writing"]
 series: ["One Year of Writing"]
