@@ -1,12 +1,9 @@
 ---
 title: "50% fear, 50% laziness"
-date: 2025-12-23
-lastmod: 2025-12-25
 pubdate: 2026-01-01
 draft: true
-description: "On why I dove into this experiment and set up this blog"
-summary: "On why I dove into this experiment and set up this blog"
-tags: ["writing", "learning"]
+summary: "On why I chose to dive into this writing experiment."
+tags: ["writing"]
 series: ["One Year of Writing"]
 series_order: 1
 ---
