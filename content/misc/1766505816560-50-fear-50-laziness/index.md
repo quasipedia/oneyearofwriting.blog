@@ -1,5 +1,6 @@
 ---
 title: "50% fear, 50% laziness"
+slug: "50-fear-50-laziness"
 pubdate: 2026-01-01
 draft: false
 summary: "On why I chose to dive into this writing experiment."
