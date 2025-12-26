@@ -1,5 +1,5 @@
 ---
-title: "50% fear, 50% laziness"
+title: "50% Fear, 50% Laziness"
 slug: "50-fear-50-laziness"
 pubdate: 2026-01-01
 draft: false
