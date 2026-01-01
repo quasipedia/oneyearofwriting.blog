@@ -35,11 +35,6 @@ home = [ "HTML", "RSS", "JSON" ]
   [services.googleAnalytics]
     id = 'G-7D4R43NS49'
 
-[privacy]
-  [privacy.googleAnalytics]
-    disable = false
-    respectDoNotTrack = true
-
 [related]
 threshold = 0
 toLower = false
