@@ -1,5 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = "{{ replace .Name "-" " " | title }}"
+#title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 slug = '{{ .File.ContentBaseName }}'
 pubdate = '{{ .Date }}'
 draft = true

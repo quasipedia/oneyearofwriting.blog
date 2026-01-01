@@ -1,44 +1,54 @@
 ---
-title: "Writing for Science"
-slug: "writing-for-science"
+title: "50% Marco Polo, 50% Marie Curie"
+slug: "50-polo-50-curie"
 pubdate: 2026-01-02
 draft: true
 summary: "On what I hope to gain with writing for a whole year."
-tags: ["writing"]
+tags: ["writing", "learning"]
 series: ["One Year of Writing"]
 series_order: 2
 
 ---
 
+## Mental Model
+
 {{<lead>}}
 
-One of the things that was driving me up the wall, when I first started working in tech was the [mis]use of the wold _experiment_.
+When discussing about learning, I sometimes refer to two archetypes that I came up with: the _explorer_ and the _scientist_.
 
 {{</lead>}}
 
-Most of the time, the term was used to mean something along the lines of:
+In my mental model, the _explorer_ is the archetype who learns new things by simply plunging into the unknown. Resourcefulness and resilience are their strengths.
 
-> "Let's try Y, and let's see what we can learn from it"
+However, as the saying goes...
 
-There is nothing wrong with this sentiment, and surely a sharp mind can learn a lot by just venturing into the unknown and keeping their eyes open.
+> "if you're exploring the unknown, by definition, you don't know where you're going."
 
-But to a trained scientist, the use of the word _experiment_ to designate this kind of trials is anathema. The "let's try something" is an attitude better suited for alchemy than science. In science, an experiment is the deliberate testing of an hypothesis using the scientific method. In layman terms it's roughly equivalent to:
+...and for this reason the explorer will often do serendipitous discoveries without fully appreciating their depth or implications.
 
-> "I believe that this is how X works. Therefore *if* I do Y, *then* I should observe Z"
+By contrast, the _scientist_ is the archetype who seeks new knowledge by validating their hypothesis through rigorous testing. Rather than venturing in the dept of the unknown: they methodically probe just beyond the boundary of what is already been thoroughly mapped. They believe that...
 
-Again, there is nothing inherently wrong with doing what we could call _alchemical trials_ (or their modern equivalent). This is a completely legit way to explore reality around us, and a strong enabler of serendipitous discoveries.
+> "if you do not know where you are going, you will probably end up somewhere else"
 
-But _alchemical trials_ rarely contribute to the _understanding_ of reality: they are at most an inefficient way to build a corpus of popular knowledge, technologies without the science to back it up. Through alchemy, you serendipitously learn how to perform certain operations, like producing pottery or treating certain illness with plants, without any understanding of the chemistry behind it (in fact, ignoring completely the existence of chemistry in the first place). Furthermore, history is full of example of flawed understanding having dramatic consequences)[^1].
+...and for this reason they are extremely deliberate about the direction they follow. Their strengths are intentionality and perseverance, and through them they will often do discoveries that are counter-intuitive and profound.
 
-On the other hand, science is laborious and fatiguing. Through science one climbs the ladder of progress at much greater speed, each discovery and conceptualisation enabling humankind to push the boundaries of our understanding further and further. But thinking and running experiments is hard, understanding what are the relevant parts of a system and isolating them almost a form of art.
+It is my conviction that both archetypes are equally good, and that - to an extent - they coexist in every person. However I also observed that most people tend to have a favourite archetype, and this somehow blinds them to the opportunities that present themselves to the other archetype.
 
-## The Alchemical Bit
+My working hypothesis is that a deliberate effort to embrace both ways of learning, yields better knowledge (= a deeper understanding).
+
+## Application
+
+So, in an effort to "walk the talk", here is how I think of my two archetypes in relation to the "One Year of Writing" project. 
+
+I am old enough to know that I am much more of a Marco Polo than a Marie Curie. Once my caravan will leave Venice for the far East, I expect to:
 
 - New thoughts. Through researching for a piece, feedback by reader, firing of adjacent neurons
 
 - New people.
 
-## The scientific Bit
+rstrtrst
+
+rstrst
 
 - A method to iterate over the text. I get too early to the editing part.
 
@@ -46,6 +56,6 @@ On the other hand, science is laborious and fatiguing. Through science one climb
 
 - A domain-specific knowledge (AI safety)
 
+- Perseverance / Discipline 
 
-
-[^1]: Story about blodletting the USA president
+rstrst
