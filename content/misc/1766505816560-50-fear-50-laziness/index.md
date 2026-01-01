@@ -36,5 +36,3 @@ So here’s my experiment: "One Year of Writing". Starting in 2026, I’m commit
 More on this project in future posts. But this first one wouldn’t feel complete without giving a shout-out to [Alex](https://www.alexewerlof.com/), a former colleague, current friend and writer, who’s spent the past four years relentlessly encouraging me to pick up the metaphorical pen.
 
 Without him, this project wouldn't exist.
-
-{{ partial "google_analytics.html" . }}
