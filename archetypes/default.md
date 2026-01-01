@@ -7,3 +7,5 @@ draft = true
 summary = ""
 tags = []
 +++
+
+{{ partial "google_analytics.html" . }}
