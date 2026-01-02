@@ -81,36 +81,37 @@ showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-constrainItemsWidth = ""
+constrainItemsWidth = false
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-cardView = false
+cardView = true
 heroStyle = "background"
 
 [term]
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
+heroStyle = "background"
