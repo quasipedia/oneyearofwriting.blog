@@ -1,11 +1,8 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-#title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 slug = '{{ .File.ContentBaseName }}'
-pubdate = '{{ .Date }}'
+pubdate = '{{ time.Format "1900-12-31" $t }}'
 draft = true
 summary = ""
 tags = []
 +++
-
-{{ partial "google_analytics.html" . }}
