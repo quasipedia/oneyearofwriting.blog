@@ -3,7 +3,7 @@ title: "Of Explorers and Scientists"
 slug: "of-explorers-and-scientists"
 pubdate: 2026-01-05
 draft: true
-summary: "A simplistic model about learning architypes."
+summary: "A simplistic model about learning archetypes."
 tags: ["learning", "mental model"]
 ---
 
