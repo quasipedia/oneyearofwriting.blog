@@ -1,0 +1,3 @@
+[keys.normal.space.t]
+s = ":toggle soft-wrap.enable"
+z = ":toggle gutters.line-numbers.min-width 10 3"
