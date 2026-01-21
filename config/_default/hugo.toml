@@ -12,7 +12,7 @@ baseURL = "https://oneyearofwriting.blog"
     dir = ':cacheDir/images'
 
 [pagination]
-pagerSize = 100
+pagerSize = 10
 
 [imaging]
 anchor = "Center"

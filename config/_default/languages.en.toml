@@ -1,16 +1,16 @@
 disabled = false
-languageCode = "en"
+languageCode = "en-gb"
 languageName = "English"
 weight = 1
 title = "One Year of Writing"
 
 [params]
 displayName = "EN"
-isoCode = "en"
+isoCode = "en-GB"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "logo-white.svg"
-description = "An Experiment in Writing Practice"
+description = "Writings on Leadership and Technology"
 secondaryLogo = "logo-black.svg"
 
 [[params.author.links]]

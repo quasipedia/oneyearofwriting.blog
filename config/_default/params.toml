@@ -5,10 +5,15 @@ enableA11y = true
 enableSearch = true
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
+enableStyledScrollbar = false
 replyByEmail = false
+mainSections = ["leadership", "technology", "misc"]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
+defaultBackgroundImage = "default-image.jpg"
+defaultFeaturedImage = "default-image.jpg"
+defaultSocialImage = "default-image.jpg"
 hotlinkFeatureImage = false
 fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
@@ -22,10 +27,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 smartTOC = true
-defaultBackgroundImage = "default-image.jpg"
 highlightCurrentMenuArea = true
-defaultFeaturedImage = "default-image.jpg"
-mainSections = ["leadership", "technology", "misc"]
 
 [header]
 layout = "fixed-fill-blur"
@@ -78,7 +80,7 @@ heroStyle = "background"
 showRelatedContent = ""
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -92,6 +94,7 @@ groupByYear = true
 cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
