@@ -25,6 +25,7 @@ smartTOC = true
 defaultBackgroundImage = "default-image.jpg"
 highlightCurrentMenuArea = true
 defaultFeaturedImage = "default-image.jpg"
+mainSections = ["leadership", "technology", "misc"]
 
 [header]
 layout = "fixed-fill-blur"
