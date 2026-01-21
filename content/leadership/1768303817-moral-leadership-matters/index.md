@@ -9,11 +9,13 @@ tags: ["society", "morality", "analysis", "mental model"]
 # series_order: 1
 ---
 
+{<lead>}
 Upon leaving companies and organisations I often receive feedback that touches me deeply and that I treasure for the years to come. The fact I'm leaving, makes so that feedback becomes much less "what I think you did well" and much more "this is how you had a positive effect on my life".
 
 Recently, somebody offered me this feedback: "The only reason I stayed was that you chose to pay a high personal price to defend the team, the truth, and what is right".
 
 Their feedback made clear that _integrity_ - something I consider a basic requirement in leadership - mattered deeply to them. But upon reflection, it also suggested a deeper truth: organisational culture and societal values mirror each other, and moral leadership within organisations is a practical, small‑scale corrective available to ordinary people.
+{</lead>}
 
 ## Social Structures are Fractals
 

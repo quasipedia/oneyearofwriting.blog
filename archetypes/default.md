@@ -6,3 +6,7 @@ draft = true
 summary = ""
 tags = []
 ---
+
+{{<lead>}}
+Foobar.
+{{</lead>}}
