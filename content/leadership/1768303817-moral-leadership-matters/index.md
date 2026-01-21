@@ -25,13 +25,13 @@ The claim here is not that social systems are perfectly fractal, but that simila
 
 The awareness about this fact is useful both in the analytical phase (explaining the presence of a pattern at a given level by observing how that pattern came to be at a different one), and in the prescriptive one (generalising or specialising conclusions drawn by observing reality at a particular level).
 
-Hence, it is possible to infer many things about how culture in organisations (such as businesses) evolved over time by looking at how the society around them developed.
+Hence, **it is possible to infer many things about how culture in organisations (such as businesses) evolved over time by looking at how the society around them developed.**
 
 ## How the Economy Lost its Integrity
 
 Many historians and economists[^2] agree that from the mid 19th century until about 1970, industrialisation has been a force for good[^3]. Among the positive effects on society were the rise of living standards, shorter working hours, longer life expectancy, better access to education, etc.[^4]
 
-However throughout the 20th century and until now, with capitalism replacing industrialism in developed countries and the advent of globalisation, financial markets and global trade took centre stage. Consequently, as the century progressed, western countries started to de-industrialise[^5]. Eventually neoliberal policies[^6] weakened the labour market, access to education and healthcare, social security nets and environmental protection and as a result **economic inequality increased**[^7].
+However throughout the 20th century and until now, with capitalism replacing industrialism in developed countries and the advent of globalisation, financial markets and global trade took centre stage. Consequently, as the century progressed, western countries started to de-industrialise[^5]. Eventually, neoliberal policies[^6] weakened the labour market, access to education and healthcare, social security nets and environmental protection and as a result **economic inequality increased**[^7].
 
 {{< figure
  src="inequality-g7-gini-index.png"
@@ -74,7 +74,7 @@ While the popular view of such managers is to consider them unprincipled profite
 
 Moral disengagement theory claims that immoral actions get justified through cognitive distortions that re-frame the action as acceptable ("The lay-off is just an unintended consequence of a larger good thing"), deflect personal responsibility ("I'm simply executing orders"), deny consequences ("They will find a new job in no time!"") or blame the victims ("If they were better performers I would have fired somebody else").
 
-The key observation here is that - while leaders who lack a moral compass do exist (especially at the executive level[^15] - many more operate in a state of self-serving cognitive dissonance.
+The key observation here is that - while leaders who lack a moral compass do exist, especially at the executive level[^15] - many more operate in a state of self-serving cognitive dissonance.
 
 ## The Future is Bleak
 
@@ -91,9 +91,9 @@ The argument for such thesis is that the increase in productivity will make huma
 
 The lack of positive externalities despite the increase in productivity happened because the social contract around paid labour is not only an economic necessity but also an instrument of mass control through economic structures: poverty is a form of structural violence used to exclude entire portions of society from the political discourse and the democratic process.
 
-It is unlikely (in fact it did not happen) that those in a position of privilege would relinquish it even in a situation of abundance for all, as the privilege itself comes from inequality, and it is one of the structural tenets of the current _pensée unique_.
+It is unlikely (in fact it rarely - if ever - happened in history) that those in a position of privilege would relinquish it even in a situation of abundance for all, as the privilege itself comes from inequality, and it is one of the structural tenets of the current _pensée unique_.
 
-**A further source of pessimism is the ongoing inclusion of AI in our decision-making infrastructure**.
+**A further source of pessimism is the ongoing inclusion of AI in our decision-making infrastructure**, as this dramatically increases the effectiveness of cultural hegemony.
 
 Like social media feeds, AI chooses what type of information we shall be exposed to and provides credibility and an authoritative tone to even the most outrageous of ideas.
 
