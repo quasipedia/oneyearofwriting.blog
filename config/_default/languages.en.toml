@@ -15,12 +15,12 @@ secondaryLogo = "logo-black.svg"
 
 [[params.author.links]]
 email = "mailto:mac@oneyearofwriting.blog"
-
-[[params.author.links]]
 linkedin = "https://www.linkedin.com/in/macmaistrelli/"
+# storygraph = "https://app.thestorygraph.com/profile/_mac_"
 
 ["params.author"]
 name = "mac"
 image = "rounded-portrait.png"
 headline = "Leadership & Technology."
 bio = "Natural scientist by training, educator by choice, and technologist by chance. Typically working in leadership. Currently on sabbatical."
+email = "mac@oneyearofwriting.blog"
