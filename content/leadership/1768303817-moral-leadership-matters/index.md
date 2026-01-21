@@ -2,7 +2,7 @@
 title: "Moral Leadership Matters"
 slug: "moral-leadership-matters"
 pubdate: 2026-01-21
-draft: true
+draft: false
 summary: "On why moral leadership is an antidote to society's ills."
 tags: ["society", "morality", "analysis", "mental model"]
 # series: ["Moral Leadership"]
@@ -93,11 +93,11 @@ The lack of positive externalities despite the increase in productivity happened
 
 It is unlikely (in fact it did not happen) that those in a position of privilege would relinquish it even in a situation of abundance for all, as the privilege itself comes from inequality, and it is one of the structural tenets of the current _pensée unique_.
 
-A further source of pessimism is the ongoing inclusion of AI in our decision-making infrastructure.
+**A further source of pessimism is the ongoing inclusion of AI in our decision-making infrastructure**.
 
 Like social media feeds, AI chooses what type of information we shall be exposed to and provides credibility and an authoritative tone to even the most outrageous of ideas.
 
-However, while social media are primarily thought and developed as consumer products (defining a clear interface user-content), AI is being embedded deep in our decision-making infrastructure[^17], and this hides the user-content interface, complicating the situation and making A) very difficult to understand what role AI had in a decision, even when de decision itself was ultimately taken by a human, and B) almost impossible to recognise their \[deliberate[^18]\] bias.
+However, while social media are primarily thought and developed as consumer products (defining a clear interface user-content), AI is being embedded deep in our decision-making infrastructure[^17], and this hides the user-content interface, complicating the situation and making (A) very difficult to understand what role AI had in a decision, even when de decision itself was ultimately taken by a human, and (B) almost impossible to recognise their [deliberate[^18]] bias.
 
 But not everything is lost.
 
