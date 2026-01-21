@@ -31,11 +31,12 @@ Hence, it is possible to infer many things about how culture in organisations (s
 
 Many historians and economists[^2] agree that from the mid 19th century until about 1970, industrialisation has been a force for good[^3]. Among the positive effects on society were the rise of living standards, shorter working hours, longer life expectancy, better access to education, etc.[^4]
 
-However throughout the 20th century and until now, with capitalism replacing industrialism in developed countries and the advent of globalisation, financial markets and global trade took centre stage. Consequently, as the century progressed, western countries started to de-industrialise[^5]. Eventually neoliberal policies[^6] weakened the labour market, access to education and healthcare, social security nets and environmental protection and as a result **economic inequality increased**.
+However throughout the 20th century and until now, with capitalism replacing industrialism in developed countries and the advent of globalisation, financial markets and global trade took centre stage. Consequently, as the century progressed, western countries started to de-industrialise[^5]. Eventually neoliberal policies[^6] weakened the labour market, access to education and healthcare, social security nets and environmental protection and as a result **economic inequality increased**[^7].
 
-[](https://lex-img-p.s3.us-west-2.amazonaws.com/img/d3ea8afb-6766-4369-81c6-09c2d1b8b337-RackMultipart20260120-149-88j16y.png)
-
-Caption: Inequality[^7] has grown in all G7 countries as neoliberal policies became dominant.
+{{< figure
+ src="inequality-g7-gini-index.png"
+ alt="Graph showing how the Gini index grew for all G7 countries from mid-70s."
+ caption="Inequality has grown in all G7 countries as neoliberal policies became dominant." >}}
 
 In summary: while the period 1850-1970 has seen society at large reaping more and more of the benefits of economic development, the last 50 years have been a steady and accelerating erosion of those gains, with most if not all of the benefits of economic development going to shareholders rather than the people partaking in the economic activity.
 
@@ -83,9 +84,10 @@ While the future is unknown, there is no reason to believe it would substantiall
 
 The argument for such thesis is that the increase in productivity will make human work redundant. Similar claims have been made since the invention of the steam engine; and for the past century specifically, the often-referred source for this take has been the economist John Keynes[^16]. However - looking at the historical record - the correlation between productivity and wealth has broken exactly when the business culture we live today became hegemonic.
 
-![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/e461a89e-6c3f-40d8-ad60-fb404495926f-RackMultipart20260120-185-7dczys.png)
-
-Caption: Graph sourced from [here](https://www.epi.org/publication/charting-wage-stagnation/) and using US data. The data about all of the G7 countries is available [here](https://en.wikipedia.org/wiki/Decoupling_of_wages_from_productivity).
+{{< figure
+ src="decoupled-wages.jpg"
+ alt="Graph showing how the increase in productivity and salaries went hand-in-hand until about 1973, then real salaries stagnated while productivity kept on growing."
+ caption="Graph sourced from [here](https://www.epi.org/publication/charting-wage-stagnation/) and using US data. The data about all of the G7 countries is available [here](https://en.wikipedia.org/wiki/Decoupling_of_wages_from_productivity)." >}}
 
 The lack of positive externalities despite the increase in productivity happened because the social contract around paid labour is not only an economic necessity but also an instrument of mass control through economic structures: poverty is a form of structural violence used to exclude entire portions of society from the political discourse and the democratic process.
 
