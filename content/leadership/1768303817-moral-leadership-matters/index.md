@@ -9,7 +9,7 @@ tags: ["society", "morality", "analysis", "mental model"]
 # series_order: 1
 ---
 
-Upon leaving companies and organisations I often receive feedback that touches me deeply and that I treasure for the years to come. The fact I’m leaving, makes so that feedback becomes much less "what I think you did well" and much more "this is how you had a positive effect on my life".
+Upon leaving companies and organisations I often receive feedback that touches me deeply and that I treasure for the years to come. The fact I'm leaving, makes so that feedback becomes much less "what I think you did well" and much more "this is how you had a positive effect on my life".
 
 Recently, somebody offered me this feedback: "The only reason I stayed was that you chose to pay a high personal price to defend the team, the truth, and what is right".
 
@@ -47,17 +47,17 @@ By virtue of the self-similarity of social structures, we know that businesses r
 
 **Jeff Bezos** represents entrepreneurial leadership shaped by the rise of platform capitalism. His leadership style focuses on individual performance, opposition to labour organisation[^8], efficiency, and a hyper-competitive workplace culture, all reflections of neoliberal values like market-driven growth, individual responsibility, deregulation, and competition.
 
-How did we go from a society that built shared prosperity to one defined by systematic exploitation? Once, economic opportunity let people become their better selves, and entrepreneurs raised wages, shortened the work-week, opened schools, and provided medical care. Now we weaken public institutions, strip away social safety nets, and see entrepreneurs build survival bunkers while workers endure conditions so severe they [must wear nappies](https://www.cbsnews.com/news/denied-bathroom-breaks-these-workers-must-resort-to-diapers/) because they aren’t allowed toilet breaks.
+How did we go from a society that built shared prosperity to one defined by systematic exploitation? Once, economic opportunity let people become their better selves, and entrepreneurs raised wages, shortened the work-week, opened schools, and provided medical care. Now we weaken public institutions, strip away social safety nets, and see entrepreneurs build survival bunkers while workers endure conditions so severe they [must wear nappies](https://www.cbsnews.com/news/denied-bathroom-breaks-these-workers-must-resort-to-diapers/) because they aren't allowed toilet breaks.
 
 ## There Is No Alternative[^9]
 
 **I posit that the root cause of this shift is that Western economic thinking is unchallenged on the world stage**.
 
-At the macro level, the Cold War[^10] forced the West to prove that capitalism could deliver for workers, in an attempted rebuttal to Marx’s warnings of alienation, inequality, and concentrated wealth. However, the collapse of the USSR not only removed the _strategic_ necessity for a fair society, but it provided the opportunity to also remove the _political_ need to debate it. In particular, the collapse of the Soviet Union was largely presented to public opinion as proof that "capitalism won"[^11].
+At the macro level, the Cold War[^10] forced the West to prove that capitalism could deliver for workers, in an attempted rebuttal to Marx's warnings of alienation, inequality, and concentrated wealth. However, the collapse of the USSR not only removed the _strategic_ necessity for a fair society, but it provided the opportunity to also remove the _political_ need to debate it. In particular, the collapse of the Soviet Union was largely presented to public opinion as proof that "capitalism won"[^11].
 
 So what was once _one of_ the possible economic systems to adopt became economic _doctrine_, and neoliberalism became **_pensée unique_**[^12] among the ruling class.
 
-In turn, the _pensée unique_ put in motion Gramsci’s **_cultural hegemony_**[^13]: businesses and institutions framed the ruling class’s world-view as natural - equating it with freedom and opportunity - until people started to perceive it as self-evident, thus legitimising the existing power structures.
+In turn, the _pensée unique_ put in motion Gramsci's **_cultural hegemony_**[^13]: businesses and institutions framed the ruling class's world-view as natural - equating it with freedom and opportunity - until people started to perceive it as self-evident, thus legitimising the existing power structures.
 
 We are back to fractals again. Because cultural hegemony shapes organisational norms, what appears at the macro level (ideology) gets replicated at the micro level (in managerial practice[^14].
 
@@ -69,15 +69,15 @@ In other words: how can a manager of a profitable company do things like mass la
 
 While the popular view of such managers is to consider them unprincipled profiteers doing immoral things for career advancement and financial gains, **moral disengagement theory** offers a more insightful explanation for how individuals can engage in behaviours they would normally judge as wrong without experiencing guilt or self-condemnation.
 
-Moral disengagement theory claims that immoral actions get justified through cognitive distortions that re-frame the action as acceptable ("The lay-off is just an unintended consequence of a larger good thing"), deflect personal responsibility ("I’m simply executing orders"), deny consequences ("They will find a new job in no time!"") or blame the victims ("If they were better performers I would have fired somebody else").
+Moral disengagement theory claims that immoral actions get justified through cognitive distortions that re-frame the action as acceptable ("The lay-off is just an unintended consequence of a larger good thing"), deflect personal responsibility ("I'm simply executing orders"), deny consequences ("They will find a new job in no time!"") or blame the victims ("If they were better performers I would have fired somebody else").
 
 The key observation here is that - while leaders who lack a moral compass do exist (especially at the executive level[^15] - many more operate in a state of self-serving cognitive dissonance.
 
 ## The Future is Bleak
 
-It’s difficult to know with certainty where we are headed, but one observation is that **the feedback loop between cultural hegemony and moral disengagement reinforces both**: the values and norms we feel are wrong to violate are already few in the hegemonic culture, and as our moral disengagement becomes deeper, it becomes easier to remove them completely from the cultural norm we observe.
+It's difficult to know with certainty where we are headed, but one observation is that **the feedback loop between cultural hegemony and moral disengagement reinforces both**: the values and norms we feel are wrong to violate are already few in the hegemonic culture, and as our moral disengagement becomes deeper, it becomes easier to remove them completely from the cultural norm we observe.
 
-While the future is unknown, there is no reason to believe it would substantially deviate from the current trajectory of more inequality, more injustice, more environmental catastrophe. Specifically, one shouldn’t believe in the promise that AI will bring about the end of poverty.
+While the future is unknown, there is no reason to believe it would substantially deviate from the current trajectory of more inequality, more injustice, more environmental catastrophe. Specifically, one shouldn't believe in the promise that AI will bring about the end of poverty.
 
 The argument for such thesis is that the increase in productivity will make human work redundant. Similar claims have been made since the invention of the steam engine; and for the past century specifically, the often-referred source for this take has been the economist John Keynes[^16]. However - looking at the historical record - the correlation between productivity and wealth has broken exactly when the business culture we live today became hegemonic.
 
@@ -99,7 +99,7 @@ But not everything is lost.
 
 ## Moral Leadership as an Antidote
 
-My central claim is that it is this very _malaise_[^19] at societal level that drives the wish for moral leadership within businesses, with the hope that it may make our lives better. That’s it: **people see moral leadership as the antidote to a bleak future**.
+My central claim is that it is this very _malaise_[^19] at societal level that drives the wish for moral leadership within businesses, with the hope that it may make our lives better. That's it: **people see moral leadership as the antidote to a bleak future**.
 
 My claim rests in part on 200 years of philosophy and social science[^20] showing that organisations act as the mediation layer between the individual and society at large.
 
@@ -111,11 +111,11 @@ In fact, I would go as far as claiming that the wish for a _moral leader_ is in 
 
 ## Conclusion
 
-I’ll follow up in a future post with a deep dive on what moral leadership is, what mental models can be used to build up our moral identity and courage, and concrete examples to get inspired, but for now my message is this: **systems change where people choose differently**.
+I'll follow up in a future post with a deep dive on what moral leadership is, what mental models can be used to build up our moral identity and courage, and concrete examples to get inspired, but for now my message is this: **systems change where people choose differently**.
 
 If organisations mirror society, then moral leadership (the everyday decisions to protect people, explain choices, and refuse convenient harm) is a practical lever we can pull now.
 
-It doesn’t require a revolution: if you are a manager pick one concrete step you can take this week (speak up for your direct reports, open a decision to wider input, or make one hiring or pay choice that favours dignity over short‑term efficiency). Watch what it does to culture, and repeat.
+It doesn't require a revolution: if you are a manager pick one concrete step you can take this week (speak up for your direct reports, open a decision to wider input, or make one hiring or pay choice that favours dignity over short‑term efficiency). Watch what it does to culture, and repeat.
 
 **Small, consistent acts of moral leadership compound;** over time they shift norms, rebuild trust, and make broader political and economic change possible.
 
@@ -137,7 +137,7 @@ It doesn’t require a revolution: if you are a manager pick one concrete step y
 
 [^9]: "There Is No Alternative" or "TINA" for short was one of the political slogans of Margaret Thatcher, rooted in neoliberalism and the belief that liberal capitalism and its policies of liberalisation, privatisation, fiscal austerity, etc. are the only viable political and economic system in the world. More details [here](https://en.wikipedia.org/wiki/There_is_no_alternative).
 
-[^10]: Reality is complex and macro-trends like the evolution of economic theories have multiple, interactive forces shaping them. My choice to focus on the Cold War (and the end of it) is justified by its outsized role in shaping the world order in that period, but it shouldn’t be taken as a claim that the Cold War was the _only_ force shaping economic thought in those years.
+[^10]: Reality is complex and macro-trends like the evolution of economic theories have multiple, interactive forces shaping them. My choice to focus on the Cold War (and the end of it) is justified by its outsized role in shaping the world order in that period, but it shouldn't be taken as a claim that the Cold War was the _only_ force shaping economic thought in those years.
 
 [^11]: The claim was most famously popularised by Francis Fukuyama in his book "The End of History and the Last Man", in which he argued that liberal democracy and capitalism were the final and best forms of governance that the world would know.
 
@@ -153,18 +153,16 @@ It doesn’t require a revolution: if you are a manager pick one concrete step y
 
 [^17]: For example: financial institutions are using AI to make investment and credit decisions (causing black applicants to be [rejected](https://www.forbes.com/sites/korihale/2021/09/02/ai-bias-caused-80-of-black-mortgage-applicants-to-be-denied/)), military forces are using it to decide whom to target (with 10% of the killed people [targeted by mistake](https://www.972mag.com/lavender-ai-israeli-army-gaza/)), universities are using it to grade students (only to discover that the algorithm removed or added points depending on [how exclusive their school was](https://en.wikipedia.org/wiki/2020_United_Kingdom_school_exam_grading_controversy)), employers are using it to select job candidates (who got [discriminated by age](https://www.gtlaw.com/en/insights/2023/8/eeoc-secures-first-workplace-artificial-intelligence-settlement)), etc….
 
-[^18]: Some big players in the AI space are quite [outspoken](https://www.businessinsider.com/xai-grok-training-bias-woke-idealogy-2025-02) about creating AIs that [reflect](https://fortune.com/2025/07/08/elon-musk-grok-ai-conservative-bias-system-prompt/) their billionaire owner’s [political opinions](https://apnews.com/article/grok-ai-elon-musk-xai-f3f8195a17698aefc517e43da973f2ea).
+[^18]: Some big players in the AI space are quite [outspoken](https://www.businessinsider.com/xai-grok-training-bias-woke-idealogy-2025-02) about creating AIs that [reflect](https://fortune.com/2025/07/08/elon-musk-grok-ai-conservative-bias-system-prompt/) their billionaire owner's [political opinions](https://apnews.com/article/grok-ai-elon-musk-xai-f3f8195a17698aefc517e43da973f2ea).
 
 [^19]: I chose to use a bland term here to keep my thesis appealing to a wide group of people, but I have first-hand evidence that for many this _malaise_ has already reached levels that would be better captured with words like "anguish", "dread" or "alienation", to name a few.
 
 [^20]: Hegel stated that organisations become "a second family for its members, a mediator between the individual and the state" in 1820, and sociologists and political scientists like Durkheim, Tocqueville, Putnam… have consistently confirmed this in the 200 years since.
 
-[^21]: I’m speaking here of what workers _want_, not of what businesses are currently doing (which in the case of sustainable business practices is often just _greenwashing_).
+[^21]: I'm speaking here of what workers _want_, not of what businesses are currently doing (which in the case of sustainable business practices is often just _greenwashing_).
 
-[^22]: Same considerations as above: I’m referring here to the wish for real inclusion, even if - as of 2026 - this is often met by formulaic initiatives and token hires instead.
+[^22]: Same considerations as above: I'm referring here to the wish for real inclusion, even if - as of 2026 - this is often met by formulaic initiatives and token hires instead.
 
 [^23]: Besides the obvious example of cooperatives, Frederic Laloux has written extensively about more traditional businesses with strong participatory mechanisms in his book [Reinventing Organisations](https://www.reinventingorganizations.com/).
 
-[^24]:
-    The historian Rutger Bregman - in [his 2025 Reith Lectures](https://www.bbc.co.uk/programmes/articles/v78MKsCWHxw0l0PwMn4R0R/bbc-reith-lectures-2025-moral-revolution) - proposed a model in which corruption and cowardice would be the leading traits of contemporary right and left political parties.
-    [^]
+[^24]: The historian Rutger Bregman - in [his 2025 Reith Lectures](https://www.bbc.co.uk/programmes/articles/v78MKsCWHxw0l0PwMn4R0R/bbc-reith-lectures-2025-moral-revolution) - proposed a model in which corruption and cowardice would be the leading traits of contemporary right and left political parties.
