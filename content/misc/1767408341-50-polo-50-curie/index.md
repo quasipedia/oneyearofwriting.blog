@@ -38,7 +38,7 @@ Matthews' work went beyond comparing performance in written vs. unwritten goals.
 While still a far cry from the 10x increase from the urban legend, experimental data showed a respectable 78% improvement over the baseline (just setting goals in your mind).
 
 {{< figure
- src="/misc/50-polo-50-curie/study-2.png"
+ src="study-2.png"
  alt="Mean goal achievement comparison among all studied groups"
  caption="All study groups compared " >}}
 
