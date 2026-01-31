@@ -5,8 +5,8 @@ pubdate: 2026-01-21
 draft: false
 summary: "On why moral leadership is an antidote to society's ills."
 tags: ["society", "morality", "analysis", "mental model"]
-# series: ["Moral Leadership"]
-# series_order: 1
+series: ["Moral Leadership"]
+series_order: 1
 ---
 
 {{<lead>}}
