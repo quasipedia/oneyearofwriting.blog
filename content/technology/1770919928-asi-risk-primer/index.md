@@ -7,25 +7,30 @@ summary: "A primer on the existential risks associated with Artificial Superinte
 tags: ["AI", "explainer", "AI safety"]
 ---
 
-# **Is AI Going to Kill Us All?**
+{{<lead>}}
 
-## Hook
-
-About 10 years ago, I watched a [Numberphile video](https://www.youtube.com/watch?v=tcdVC4e6EV4)[^1], where a young mathematician was explaining how any sufficiently intelligent machine (for example, a stamp-collecting one that could interact freely with the world) would likely wipe humanity off the face of the planet. The video ended with the mathematician stating:
+About 10 years ago, I watched a [Computerphile video](https://www.youtube.com/watch?v=tcdVC4e6EV4), where a young mathematician was explaining how any sufficiently intelligent machine (for example, a stamp-collecting one that could interact freely with the world) would likely wipe humanity off the face of the planet. The video ended with the mathematician stating:
 
 > « There comes a point when the stamp-collecting machine becomes extremely dangerous. And that point is: as soon as you switch it on. »
 
-The reasoning was convincing, and the admonition compelling, so I took it seriously. But it also felt very much "theoretical" given that the state of the art in AI back then was Microsoft's Clippy[^2], which was unable to correctly indent a bullet list, let alone annihilate humanity.
+{{</lead>}}
+
+The reasoning was convincing[^1], and the admonition compelling, so I took it seriously. But it also felt very much "theoretical" given that the state of the art in AI back then was Microsoft's Clippy[^2], which was unable to correctly indent a bullet list, let alone annihilate humanity.
+
+{{< figure
+ src="rob-miles-2015.png"
+ alt="A young mathematician, curly brown hairs, red shirt, black jacket"
+ caption="A young Robert Miles giddly explains to the viewer that automating philately could be the last thing humankind does..." >}}
 
 Since then, though, the likes of ChatGPT have come of age, and no day goes by without a Silicon Valley billionaire announcing that Artificial Superintelligence (ASI) is a few years away[^3], proof that the future of AI is now squarely a matter of [public debate](https://www.einpresswire.com/article/678443727/artificial-intelligence-a-i-beats-swiftie-and-tunnels-as-top-word-of-2023-for-english-by-the-global-language-monitor).
 
 Since I believe in democracy, and democracy only works if people participate, I consider it a civic duty for every citizen to form their own opinion on the following three questions:
 
-[^1]: Does the development of Artificial General Intelligence (AGI) and eventually Artificial Superintelligence (ASI) present _existential_ risks to humanity? And if so, which ones?
+1. Does the development of Artificial General Intelligence (AGI) and eventually Artificial Superintelligence (ASI) present _existential_ risks to humanity? And if so, which ones?
 
-[^2]: What should we do, as a society, to mitigate those risks (if we think they are real)?
+2. What should we do, as a society, to mitigate those risks (if we think they are real)?
 
-[^3]: How can we - as individual citizens - contribute to that societal outcome?
+3. How can we - as individual citizens - contribute to that societal outcome?
 
 In this post, I investigate whether AGI/ASI constitute genuine existential risks, summarise the leading experts' arguments and disagreements, and offer clear, practical steps citizens can take depending on what they conclude.
 
@@ -39,6 +44,12 @@ Since I want this post to be useful to as many people as possible, let me introd
 - **AI** - Obviously it stands for _Artificial Intelligence_. For this post, it is important to understand that AI is a superset of chatbots like Le Chat, ChatGPT or Gemini. In other words: all chatbots are AI, but not all AIs are chatbots.
 - **LLM** - _Large Language Model._ This is a type of AI that is designed to process, generate, and understand human-like text. LLMs do not possess true understanding, consciousness, or reasoning capabilities. They operate by identifying statistical patterns in text and lack grounding in real-world experience or embodied cognition. LLMs are the "engine" of conversational AI assistants (chatbots).
 - **DNN** - _Deep Neural Network._ This is the underlying architecture of LLMs, the thing that is relevant to know for this post is that DNNs - as the name implies - are inspired by biological brains, which are made up of an intricate network of interconnected neurons that trigger one another.
+
+{{< figure
+ src="dnn.png"
+ alt="A schematic visualisation of a DNN, with multiple columns (layers) of neurons connected to each other with a moltitude of lines"
+ caption="A simplified representation of a DNN. Note how the neurons in each hidden layer receive inputs from all neurons of the previous layer and distribute their output to all the neurons of the following layer. The amount of influence that each input from one neuron has on the output of another neuron through a connection is captured by a 'weight' (a number that determines the strength of the signal). During training, these weights are iteratively updated - typically via gradient descent - to minimise the difference between the network’s predictions and the values in the training dataset. Weights encode the learned knowledge of the model, enabling it to transform inputs into meaningful outputs." >}}
+
 - **Alignment** - Alignment refers to ensuring an AI system behaves in ways that match human intentions, values, and goals. It means designing the AI so that its actions are safe, ethical, and beneficial, avoiding unintended or harmful outcomes.
 - **Narrow Intelligence** - Narrow intelligence refers to artificial intelligence systems designed to perform specific tasks or functions within a limited domain. These systems excel in well-defined, constrained environments, such as image recognition, language translation, or game-playing, but lack the ability to generalise beyond their designated scope. Conversational AI assistants are a form of narrow intelligence.
 - **AGI** - _Artificial General Intelligence._ AGI refers to a hypothetical type of artificial intelligence that possesses the ability to understand, learn, and apply knowledge across a broad range of tasks at a level comparable to human intelligence. The term is useful when used in opposition to the concept of _narrow intelligence_, but it is - in itself - poorly defined, as there is no agreed-upon definition of human-level intelligence.
@@ -62,9 +73,14 @@ In the next section, I will offer a very contrite summary of the points relevant
 
 ### Eliezer Yudkowsky and Nate Soares
 
-I started my journey of discovery by reading "[**If anybody builds it, everybody dies**](https://ifanyonebuildsit.com/)", a 2025 book by [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) and [Nate Soares](https://en.wikipedia.org/wiki/Nate_Soares) of the [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI). I chose this book as it sounds almost like the natural _sequitur_ to the Numberphile video. MIRI is a well-respected, long-running institution that was among the first to sound the alarm on the existential risks posed by AI, well before LLMs were a thing and AI was on everybody's lips.
+I started my journey of discovery by reading "[**If anybody builds it, everybody dies**](https://ifanyonebuildsit.com/)", a 2025 book by [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) and [Nate Soares](https://en.wikipedia.org/wiki/Nate_Soares) of the [Machine Intelligence Research Institute](https://intelligence.org/) (MIRI). I chose this book as it sounds almost like the natural _sequitur_ to the Computerphile video. MIRI is a well-respected, long-running institution that was among the first to sound the alarm on the existential risks posed by AI, well before LLMs were a thing and AI was on everybody's lips.
 
 > « If any company or group, anywhere on the planet, builds an artificial superintelligence using anything remotely like current techniques, based on anything remotely like the present understanding of AI, then everyone, everywhere on Earth, will die. »
+
+{{< figure
+ src="yudkowsky-soares.jpg"
+ alt="Close up of two men, probably in their late thirties or early forties. On the left a black-haired, bearded man with frameless glasses, on the right a brown-haired man (the hairs are longer) also with the beard but without glasses."
+ caption="Youdkowsky (left) and Soares (right)." >}}
 
 - What they claim - If anyone builds an ASI using anything like current techniques, the combination of an intelligence explosion with goals that are misaligned with ours will _inevitably_[^7] lead to the end of life on Earth.
 - Why it matters - Their argument frames the problem as single-shot and uncompromising: safety must work the first time, globally, or the consequences are terminal, which motivates calls for moratoria and precautionary governance.
@@ -75,7 +91,12 @@ However, not everybody agrees on the premises on which Yudkowsky and Soares base
 
 [This essay](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong) and [this interview](https://www.youtube.com/live/-qfB8clUIaY) are among the first materials I looked at after finishing the book, as the name of Goertzel is the one that comes up more prominently when I query the internet for counterpoints to Yudkowsky and Soares' book specifically.
 
-> « The core philosophical flaw in Eliezer's reasoning on these matters is treating intelligence as pure mathematical optimisation, divorced from the experiential, embodied, and social aspects that shape actual minds. \[...\] An intelligence capable of recursive self-improvement and transcending from AGI to ASI would naturally tend toward complexity, nuance, and relational adaptability rather than monomaniacal optimisation. »
+> « The core philosophical flaw in Eliezer's reasoning on these matters is treating intelligence as pure mathematical optimisation, divorced from the experiential, embodied, and social aspects that shape actual minds. [...] An intelligence capable of recursive self-improvement and transcending from AGI to ASI would naturally tend toward complexity, nuance, and relational adaptability rather than monomaniacal optimisation. »
+
+{{< figure
+ src="ben-goertzel.jpg"
+ alt="A man in his fifthies, with long curly hairs, round glasses and a bizarre wide-brimmed hat, sporting a cow-print design."
+ caption="Ben Goertzel." >}}
 
 - What he claims - Warnings about malevolent ASI overstate the risk; intelligence and values co-evolve, and AGI built through cooperative means and decentralised governance will naturally develop values that will lead it to caring about humans.
 - Why it matters - Redirects attention from purely technical fixes to political and infrastructural solutions (decentralisation, open governance) and emphasises shaping incentives and development pathways rather than halting progress.
@@ -88,6 +109,11 @@ Sutskever is one of the leading figures in contemporary AI. His work is foundati
 
 > « I believe it will be easier to build an AI that cares about all sentient life rather than about sentient life specifically, because AI itself will be sentient. »
 
+{{< figure
+ src="ilya-sutskever.webp"
+ alt="A man in his 30s or 40s, with a receding hairline and closely cropped hair. He has a neutral expression, prominent eyebrows, and is wearing a dark blue V-neck shirt. "
+ caption="Ilya Sutskever." >}}
+
 - What he claims - The existential risk of ASI leading to the extermination of humankind is real but solvable in principle; however, we currently lack the theoretical foundations for safe, general intelligence. In particular, the industry is fixated on the idea of self-improving AI, but AGI may well arise from an ensemble of systems (rather than a single monolith) with limited intelligence but incredibly good at learning.
 - Why it matters - Focuses research priorities on developing theories of reliable generalisation and alignment (including capping capabilities and designing value-generalisation mechanisms) rather than only scaling compute/data.
 
@@ -98,6 +124,11 @@ Finally, I turned to the so-called "Godfather of AI" [Geoffrey Hinton](https://e
 Hinton was awarded the Nobel Prize in Physics in 2024 for "foundational discoveries and inventions that enable machine learning with artificial neural networks", and the interview I listened to is [this one](https://www.youtube.com/watch?v=giT0ytynSqg).
 
 > « We have to face the possibility that unless we do something soon, we are near the end. »
+
+{{< figure
+ src="geoffrey-hinton.jpg"
+ alt="A man in his 70s or 40s, with a receding hairline and longish gray hairs, wearing a light-coloured collared shirt. He appears to be speaking or gesturing emphatically, with raised hands and a headset microphone, suggesting he is giving a presentation or participating in a public discussion."
+ caption="Geoffery Hinton, the 'Godfather of AI'." >}}
 
 - What he claims - Present-day AI misuse (deepfake phishing, bioterrorism, targeted political manipulation, autonomous weapons, mass job displacement...) already poses serious risks, but ASI poses a substantial, hard-to-quantify existential risk and must be prevented from having incentives to eliminate humanity. His approach to mitigation is to regulate capitalism very strictly, as he sees the pursuit of profit as a major cause of misalignment between AI goals and human values.
 - Why it matters - Hinton ties technical risk to political economy: profit motives and concentration of power accelerate dangerous deployments; thus, policy and regulation are central components of mitigation alongside technical work.
@@ -123,14 +154,19 @@ Further, I have some observations on how themes unfold across the book and inter
 
 ### On the Solution Side
 
-- For those scientists who mention them, the solution to present-day risks (those tied to the misuse of AI as currently available) is **strong regulation** \[of capitalism\] **at a global level**.
+- For those scientists who mention them, the solution to present-day risks (those tied to the misuse of AI as currently available) is **strong regulation** [of capitalise] **at a global level**.
 - For the risks related to the creation of an ASI, everybody seems to agree that the only viable solution is **strong** **alignment**[^11], or in other words: having the ASI never want to get rid of us.
 - However, it seems that **every scientist has their own thoughts about how to achieve a sufficiently strong alignment**: from distributed-transactional systems and co-evolution to a design yet to be discovered, to a laconic "It is not achievable, and therefore we should not develop an ASI altogether."
 
 ### On the Debate Itself
 
 - **We lack the proper mental categories** for discussing the topic of AI efficiently. Words that make intuitive sense (e.g.: "sentient", "consciousness", "intelligence") in relation to a human prove incredibly difficult to use in the context of AI. And since we are discussing systems that don't yet exist, with words that have a lot of ambiguity in them, the discussion is hard.
-- **It is difficult to imagine the right things**. This is because of two things: on the one hand we cannot imagine ourselves not being the most intelligent species on the planet (even if Dr. Hinton has an interesting heuristic for that: « Ask a chicken! »); on the other hand we are also influenced by the collective imagination, so when thinking of ASI, most westerners think of _Terminator_, while in the east they typically imagine ASIs as being helpful and benevolent, because they are portrayed as such in mainstream media.
+- **It is difficult to imagine the right things**. This is because of two factors: on the one hand we cannot imagine ourselves not being the most intelligent species on the planet (even if Dr. Hinton has an interesting heuristic for that: « Ask a chicken! »); on the other hand we are also influenced by the collective imagination, so when thinking of ASI, most westerners think of _Terminator_, while in the east they typically imagine ASIs as being helpful and benevolent, because they are portrayed as such in mainstream media.
+
+{{< figure
+ src="ask-a-chicken.jpg"
+ alt="This image features a batch of grilled chicken drumsticks on an outdoor barbecue grill."
+ caption="How does it feel _not_ to be the most intelligent species on the planet? Dr. Hinton suggested to « ask a chicken ». We may not like the answer they'd give us..." >}}
 
 ## My Thoughts
 
@@ -140,6 +176,11 @@ So, what do I make of all this, at a personal level?
 
 All this "not my own research" left me convinced that **the AI x-risks are very real** but that we - as a society - are absolutely **unaware, unprepared, and politically unwilling** to mitigate them.
 
+{{< figure
+ src="dont-look-up.webp"
+ alt="The movie poster of \"Don't look up!\""
+ caption="'Don't Look Up', generally credited as an allegory for the lack of reaction to climate change, could equally be about the existential risks of AI." >}}
+
 Unluckily, the development of AI is being played out like an arms race, a zero-sum game in which a handful of billionaires are competing to ultimately gain control of society, and the governments appear to be going along with it because they are either [**clueless**](https://people.com/a1-steak-sauce-has-hilarious-response-after-secretary-of-education-linda-mcmahon-flubs-11714927)**,** [**corrupt,**](https://cleanwater.org/releases/no-more-secret-data-center-deals-michiganders-rally-stop-bipartisan-corruption-driving) **or** [**complicit**](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/).
 
 Some authors compare the x-risk brought about by ASI to the threat of a global thermonuclear conflict. In the 1950s, that threat led to strong international cooperation to avert it, and they hope the same will happen for AI.
@@ -148,13 +189,18 @@ I see the parallels, but I also think there are important differences that may p
 
 But with ASI we don't have a shared understanding of the consequences, nor the luxury of a "first smaller incident" to inform our decisions thereafter. The first incident will also be the last possible one.
 
+{{< figure
+ src="castle-bravo.jpg"
+ alt="Picture of the castle bravo nuclear explosion: a massive, blindingly bright fireball at the center, glowing with intense orange and yellow light, surrounded by thick, billowing clouds of smoke and debris."
+ caption="The Castle Bravo disaster (1954) was the detonation of a hydrogen bomb by the US at Bikini Atoll, which unexpectedly yielded 15 megtons (2,5 times the intended amount) and spread radioactive fallout far beyond predictions, contaminating nearby islands and a Japanese fishing vessel. This catastrophic event exposed the dangers of nuclear testing, sparked global outrage, and accelerated international efforts toward arms control, including the 1963 Partial Nuclear Test Ban Treaty, which banned atmospheric, underwater, and outer space nuclear tests. It also intensified public and political scrutiny of nuclear weapons development." >}}
+
 ### ...And a Silver Lining
 
 Having a background in Natural Sciences, the position of Goertzel and LeCun **that LLMs are inherently incapable of creating AGI (let alone ASI) seems plausible to me**.
 
 Beware: mine is nothing more than the intuition of a layperson, but since the premise for LLMs' effectiveness is biomimicry (i.e. using _artificial_ neural networks to replicate the functionality of the _biological_ brain), it's worth noticing how our artificial version of the brain is an extremely crude imitation of the real deal. Add to that that our understanding of the actual brain is still - to date - extremely limited, and it is likely that if an AGI were ever to emerge from a synthetic brain, that brain could still be a considerable amount of time away.
 
-This wouldn't change the severity of the risks, of course, but it would **buy us more time**. And maybe - with a bit of luck - research on AI will hit a plateau (this has happened multiple times before) and society would have a window of opportunity[^12]. But if that happens, **it will be just a \[possibly short\] window of opportunity**, and we will need to swiftly exploit it. With efficacy and effectiveness.
+This wouldn't change the severity of the risks, of course, but it would **buy us more time**. And maybe - with a bit of luck - research on AI will hit a plateau (this has happened multiple times before) and society would have a window of opportunity[^12]. But if that happens, **it will be just a [possibly short] window of opportunity**, and we will need to swiftly exploit it. With efficacy and effectiveness.
 
 Either way, it appears to me that - while the solution will ultimately be technical - **we need a global regulation** to limit uncontrolled experimentation and rogue AI deployment.
 
@@ -177,6 +223,11 @@ Regardless of your leverage and competence, these are three possible starting po
 > « There is a quote that goes: "You may not take an interest in politics, but politics will take an interest in you." The same applies to AI. »  
 > -- Ilya Sutskever
 
+{{< figure
+ src="rob-miles-2025.png"
+ alt="A mathematician 10 years older than in the previous screen capture we took of him, still with curly brown hairs, and still with red shirt, but this time also sporting a beard."
+ caption="A 10 years older Robert Miles invites us to join the ranks of those who - like him - work on AI safety. I also checked closely: it is similar, but it is not the same shirt!" >}}
+
 ## APPENDIX
 
 ### Additional Reflections on Capitalism
@@ -185,7 +236,7 @@ When I set out on this journey of discovery, I did not expect capitalism to crop
 
 I am not surprised by the anger and disillusionment of many scientists towards capitalism. The [precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle) is one of the tenets of responsible science, while Silicon Valley predicates itself on "move fast and break things" (which is a valid product development strategy but _also_ easily used as a cover for the lack of any moral restraints), so there was always going to be friction between these two worldviews.
 
-The closest, most fitting parallel I can draw to what's happening today with AI is what happened twenty years ago with social media: academia and commentators started to outline the societal costs of social media (misinformation, polarisation, mental health, cyberbullying...) already at the time of MySpace; governments are starting to take \[very limited\] [action](https://www.unicef.org.au/unicef-youth/staying-safe-online/social-media-ban-explainer) [only](https://www.politico.eu/article/five-things-to-know-about-france-social-media-ban/) [now](https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html), after [a genocide](https://systemicjustice.org/article/facebook-and-genocide-how-facebook-contributed-to-genocide-in-myanmar-and-why-it-will-not-be-held-accountable/), [dozens of suicides,](https://nypost.com/2025/12/10/us-news/38-us-teens-died-by-suicide-in-five-years-from-sextortion-scams/) and who knows how many [mental health issues](https://www.singlecare.com/blog/social-media-and-mental-health-statistics/) and elections whose outcome has been [manipulated](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal).
+The closest, most fitting parallel I can draw to what's happening today with AI is what happened twenty years ago with social media: academia and commentators started to outline the societal costs of social media (misinformation, polarisation, mental health, cyberbullying...) already at the time of MySpace; governments are starting to take [very limited] [action](https://www.unicef.org.au/unicef-youth/staying-safe-online/social-media-ban-explainer) [only](https://www.politico.eu/article/five-things-to-know-about-france-social-media-ban/) [now](https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html), after [a genocide](https://systemicjustice.org/article/facebook-and-genocide-how-facebook-contributed-to-genocide-in-myanmar-and-why-it-will-not-be-held-accountable/), [dozens of suicides,](https://nypost.com/2025/12/10/us-news/38-us-teens-died-by-suicide-in-five-years-from-sextortion-scams/) and who knows how many [mental health issues](https://www.singlecare.com/blog/social-media-and-mental-health-statistics/) and elections whose outcome has been [manipulated](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal).
 
 In fact, I believe that capitalism itself is a fitting metaphor for ASI x-risk. It represents an organising principle much stronger and more powerful than that of any single person or other group of people on the planet (similarly to an ASI), and it seems to be radically misaligned with human values, as proven by the climate collapse, increasing inequality, pollution, environmental damage, and the erosion of democracy coupled with the emergence of the billionaire ruling class.
 

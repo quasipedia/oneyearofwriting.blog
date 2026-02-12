@@ -7,8 +7,6 @@ summary: "Summaries of books and interviews by leading AI researcher on existent
 tags: ["AI", "summary", "AI safety"]
 ---
 
-# AI Scientists on AI X-Risks
-
 {{<lead>}}
 
 This companion post compiles direct summaries and quoted passages from books and interviews in which leading AI researchers describe their views on AI existential risks (AI x-risks). I do not add substantive commentary; footnotes note sources and minor context.
