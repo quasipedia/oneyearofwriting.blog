@@ -26,6 +26,11 @@ Towards the end of the article, I will also suggest some heuristics that leaders
 
 ## Context
 
+{{< figure
+ src="bregman.png"
+ alt="A man, seated and facing slightly to the left of the camera. He has light-colored hair and a beard, and he is wearing a dark blazer over a light blue shirt and a white undershirt. His expression is engaged and he seems to be in the middle of making a point."
+ caption="Rutger Bregman at Davos." >}}
+
 To understand my upcoming point on _whataboutery,_ some context about the LinkedIn post mentioned above is needed.
 
 Rutger Bregman is a Dutch writer[^1] who became widely known after [telling billionaires on the Davos stage](https://www.youtube.com/watch?v=P8ijiLqfXP0) that their "stupid philanthropy schemes" were "bullshit" and that they should pay their fair share of taxes.
@@ -37,6 +42,11 @@ The call to boycott OpenAI resonated with me (I despise OpenAI for multiple reas
 Thus, I stated as much, and a minority of commenters - without engaging the inconsistency - accused me of _whataboutery._
 
 ## On Whataboutery
+
+{{< figure
+ src="whataboutery.png"
+ alt="This image is a meme featuring a close-up of a Morpheus, the character from the movie 'The Matrix,' who is known for delivering philosophical or thought-provoking statements. The man has a serious, intense expression on his face. Overlaying the image is white and yellow text that reads as follows: At the top, in white text: 'WHAT IF I TOLD YOU'. Below that, in yellow text: '9 TIMES OUT OF 10, THE USE OF WHATABOUTISM IS ITS OWN WHATABOUTISM, AND DOES NOT ADVANCE THE DEBATE AT ALL.'"
+ caption="I'm clearly not the first person noting how the word 'whatabautery' is misused in online conversations..." >}}
 
 So, let's start here.
 
@@ -53,6 +63,11 @@ I don't think people meant it in bad faith. Whataboutery is an informal fallacy[
 But this only makes things more interesting: why did people move so quickly to suppress the critique of Bregman?
 
 ## On imperfection
+
+{{< figure
+ src="hero-leader.jpg"
+ alt="This image is an illustrated scene set in an office environment. At the center, a man in a business suit and red tie stands heroically on a pile of rubble, with a frayed red cape billowing behind him like a superhero."
+ caption="The myth of _heroic leadership_ is as pervasive as counter-productive." >}}
 
 I think it's because many struggle to see good leadership and fallibility as compatible.
 
@@ -78,11 +93,18 @@ In some models like Lencioni's [_five dysfunctions of a team_](https://www.table
 
 ## On Idealisation
 
+{{< figure
+ src="hall-of-shame.jpg"
+ alt="The picture is a gallery of portraits surrounding the white-on-black text '30 under 30 hall of shame'."
+ caption="From left to right, and top to bottom, some of Forbes' 30-under-30 who started as celebrated hero leaders but ended up behind bars for fraud: Martin Shkreli (2012), Elizabeth Holmes (2015), Obinwanne Okeke (2016), Nate Paul (2016), Charlie Javice (2017), Joanna Smith-Griffin (2021), Sam Bankman-Fried (2021), Caroline Ellison (2022)." >}}
+
 And yet, for as much research and business advice pointing in the opposite direction there is, people are still attracted to the trope of _heroic leaders_[^9], and often (like in the case of the reactions to my comment on LinkedIn) will actively fight back any attempt to show the fallibility of a leader they believe in.
 
 I get why this happens: _heroic leadership_ is - after all - an _archetype_, a collectively inherited **unconscious idea** universally present in individual psyches[^10]. And one that fuels [**charismatic**](https://fortune.com/2024/05/20/satya-nadella-microsoft-culture-growth-mindset-learn-it-alls-know-it-alls/) [**narratives**](https://www.brainzmagazine.com/post/8-elon-musk-projects-that-will-revolutionize-our-future) [in](https://press.farm/how-did-jeff-bezos-revolutionize-online-shopping/) [the](https://finance.yahoo.com/news/bill-gates-efforts-eradicate-malaria-135253857.html?guccounter=1) [media](https://www.nytimes.com/2025/05/17/magazine/rutger-bregman-interview.html) we consume.
 
 Our **cognitive biases** help too, by skewing our perception: the [_halo effect_](https://en.wikipedia.org/wiki/Halo_effect) blows a single positive impression out of proportion, and the [_fundamental attribution error_](https://en.wikipedia.org/wiki/Fundamental_attribution_error) overemphasises agency while overlooking situational factors.
+
+> « Unhappy the land that is in need of heroes. » -- Bertold Brecht
 
 To be fair, leadership is situational, and the charisma of the heroic leader is often functional in emergencies: it clarifies goals, reassures people, and concentrates momentum for rapid mobilisation. Outside crises, though, charismatic dominance can suppress debate and weaken accountability, resulting in being _counterproductive._
 
@@ -111,9 +133,10 @@ For leaders, scrutiny is reassuring: it shows engagement, surfaces diverse angle
 
 ## On Power Asymmetries
 
-> The lion will lie down with the lamb, but the lamb won't get much sleep...
->
-> -- Woody Allen
+{{< figure
+ src="lion-lamb.png"
+ alt="This image is a humorous meme featuring a lion and a lamb lying down together in a grassy field. The lion, with its majestic mane, is resting its head near the small, white lamb, creating a peaceful and unlikely pairing. The image is overlaid with bold yellow text that reads, 'AND THE LION AND THE LAMB SHALL LAY DOWN TOGETHER' at the top, referencing a biblical prophecy about harmony and peace. At the bottom, another line of text humorously adds, 'BUT THE LAMB WON’T GET MUCH SLEEP'"
+ caption="A classic joke by Woody Allen" >}}
 
 Naturally, power asymmetries complicate any attempt to deconstruct a leader's polished image.
 
@@ -159,6 +182,11 @@ My intent with this piece was to make the reader more comfortable with the ideas
 
 I hope this will motivate you to be the kind of follower who commits to critical thinking and - if you have access to your leader - to candid and powerful feedback about their leadership.
 
+{{< figure
+ src="einstein.png"
+ alt="This image is a humorous meme featuring a black-and-white photograph of Albert Einstein, the renowned physicist. Einstein is shown with his iconic wild hair and thoughtful expression, set against a dark background. Overlaying the photo is white text that reads: 'INTERNET USERS OF THE 21ST CENTURY WILL NEED THE CRITICAL THINKING SKILLS TO KNOW WHICH QUOTES ATTRIBUTED TO ME ARE GENUINE'. At the bottom, it says 'ALBERT EINSTEIN, 1953' in bold letters."
+ caption="Very few thought leaders were as prescient as Albert Einstein." >}}
+
 If you want to go the extra mile:
 
 - As a follower: pick one leader you admire and write down two specific, actionable things they could do better. Then - after checking it's safe - offer one short piece of constructive feedback in a private message.
@@ -167,17 +195,31 @@ If you want to go the extra mile:
 Small actions like these train the muscle of critical, caring leader- and follower- ship, and making them a habit is what develops a culture of psychological safety in an organisation.
 
 [^1]: Bregman typically presents himself as a historian, but many academics treat his work as pop history with a strong normative bent rather than as a scholarly contribution. Most criticism appears in Dutch, but a [review in English](https://www.thephilosopher1923.org/post/are-we-decent-deep-down) by Professor David Livingstone summarises well the common thread: "Uplifting though its message is, I found the book to be consistently marred by oversimplifications, assumptions presented as fact, conceptual unclarity, and unwarranted inferential leaps."
+
 [^2]: At the time of writing, ICE is being used to racially profile and harass people in Minneapolis and elsewhere in the USA. Already, [two](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good) [people](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti) have been killed at close range while they were exercising their civil rights of protesting and documenting the abuses.
+
 [^3]: In 2019 - while Gates was still on the Board of Directors - Microsoft invested 1 billion USD in OpenAI, then a very young NGO: in return, OpenAI abandoned its mission of open research for the good of humanity and transformed itself into a proprietary, commercial AI, resulting in monopolistic control of the market (at least for a few years). Today, Microsoft is still the largest investor in OpenAI. Bregman has publicly defended Bill Gates, calling him "the exception among billionaires" and "a really, really genuine philanthropist". He also accepted [donations](https://timschwab.substack.com/p/he-built-a-brand-criticizing-billionaires) from the Gates Foundation for his School of Moral Ambition.
+
 [^4]: Wikipedia [observes](https://en.wikipedia.org/wiki/Informal_fallacy) that "fallacies, despite being incorrect, usually appear to be correct and thereby can seduce people into accepting and using them."
+
 [^5]: More correctly: "the public persona of Steve Jobs" as the reality on the ground was more complex than what people made of it. This is, in part, my very argument: that the gap between the idealised form of the leader (their public persona) and the reality of who they are makes the model _dysfunctional._
+
 [^6]: At a later stage, Jonathan Ive (design) got some press, and we all learned about Tim Cook (operations) when he became CEO _after_ Jobs' tenure, but the contributions of other equally important figures like Tevanian (OSX), Schiller (marketing), or Johnson (Apple Stores) are still to date largely uncredited.
+
 [^7]: In 1978, [James MacGregor Burns](https://en.wikipedia.org/wiki/James_MacGregor_Burns) was among the first to formalise a theory of leadership where the leader was not idealised, but in the years since, a plethora of authors have produced alternative models in the same vein.
+
 [^8]: One of the pieces of research that is considered foundational for the idea of psychological safety is the paper from Amy Edmonson available [here](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf?.com).
-[^9]: Funnily enough, the magazine Forbes illustrates both the tendency to fall for the _heroic leadership_ archetype and the fact that the archetype is fallacious. [As the Guardian points out](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison), a lot of the leaders that they singled out as exemplary ended up behind bars (e.g. Sam Bankman-Fried, Martin Shkreli, Elizabeth Holmes, Charlie Javice, Trevor Milton, etc.).
+
+[^9]: Funnily enough, the magazine Forbes illustrates both the tendency to fall for the _heroic leadership_ archetype and the fact that the archetype is fallacious. [As the Guardian points out](https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison), a lot of the leaders that they singled out as exemplary ended up behind bars (e.g. Sam Bankman-Fried, Martin Shkreli, Elizabeth Holmes, Charlie Javice, Trevor Milton, etc.), Forbes' bad judgement in their picks became such a cultural phenomenon online that in 2025 the magazine itself [spinkled their head with ashes](https://www.forbes.com/sites/forbesunder30team/2023/11/28/hall-of-shame-the-10-most-dubious-people-ever-to-make-our-30-under-30-list/).
+
 [^10]: [Source](https://www.dictionary.com/browse/archetype) of the definition of archetype.
+
 [^11]: Note that whether going through with a decision from the leader will cause harm or not is irrelevant. My claim is that _heroic leadership_ causes _moral_ _disengagement_, not _immoral behaviour_.
+
 [^12]: There are a lot of legitimate and good reasons why this may happen (a reorganisation in which your previous role disappears, a training programme for which you are expected to "grow into the role", etc.), so no judgement here!
+
 [^13]: For example, with a very junior team, you may want to simply validate a draft decision with the team, while with a very senior one you may feel confident to discuss even the underlying strategy for the decision at hand.
+
 [^14]: I'm not saying that you shouldn't attract the attention of the team to the fact that you "called it" but your concern was dismissed. There is probably a lot of learning to extract from reflecting in hindsight on that dynamic. But the right moment for that discussion is not when your servers crash at 1:47 am; it is during the team retro or the incident post-mortem. And the purpose of it is _not berating but learning_.
+
 [^15]: It is sad having to remark on this, but **do absolutely check they are into imperfection and vulnerability _before_ providing feedback to them!** Leaders who perceive themselves as superior and better than their followers will take any constructive feedback that comes with well\-reasoned evidence as an attempt to corner them, and they will feel threatened/attacked and act accordingly, which can be _very_ unpleasant if they wage power over you (e.g. if they are your manager at work).
